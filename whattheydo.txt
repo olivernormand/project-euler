@@ -1,0 +1,20 @@
+001 - Sum of integers less than value divisible by 3 or 5
+002 - Sum of even fibonnaci
+003 - Prime factorisation
+004 - Palendromic Numbers from 3 digit multiples, python is much better
+      Reverse referencing to simply invert a number
+005 - Faster without computation
+006 - Square of Sum - Sum of Square
+007 - Prime number generator - rapid, again, much better in python
+008 - Maximum product of adjacent numbers in string
+009 - Pythagoras numbers that sum to 1000
+010 - Summation of primes
+011 - ???
+012 - triangle factors
+013 - Files, adding numbers
+014 - Collatz Sequence
+015 - nCr for big numbers
+016 - Sum of digits in 2^100
+017 -
+018 - Maximise sum through triangular sequence of numbers
+020 - Sum of digits in number
