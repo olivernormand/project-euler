@@ -236,7 +236,7 @@ def numberturns(squares):
 
 state = state(0, 0)
 
-turnnumber = 10000000
+turnnumber = 1000000
 for i in range(turnnumber):
     state, squares, ch, cc = takeaturn(state, squares, ch, cc)
 
