@@ -2,7 +2,7 @@ import time
 
 t0 = time.time()
 
-limit = 500000
+limit = 50000000
 primes = list(range(0, limit + 1))
 
 nprime = 1
